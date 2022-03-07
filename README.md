@@ -1,10 +1,10 @@
 # gaptheory
-data catalog for results of "Petrillo et. al - Testing of the  Seismic Gap Hypothesis in a realistic model for earthquake occurrence"
+Data catalog for results of "Petrillo et. al - Testing of the  Seismic Gap Hypothesis in a realistic model for earthquake occurrence"
 
 The file contains the OFCR model simulated earthquake catalog based on "Petrillo et al. 2020".
 
 The file is structured as follows:
-(1 col) occurrence time of the sequence
+(1 col) occurrence time of the sequence \\
 (2 col) delta*
 (3 col) earthquake slipped area
 (4 col) earthquake x-epicenter
